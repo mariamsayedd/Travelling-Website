@@ -7,7 +7,7 @@ This project is a simple travelling website built using:
 - **MongoDB**
 - **EJS**
 
-**Note**: Most of the frontend (EJS templates) was already prepared. The focus of this project is on backend development and integrating the frontend with the server logic.
+**Note**: Most of the frontend (HTML & CSS) was already prepared. The focus of this project is on backend development and integrating the frontend with the server logic.
 
 It allows users to:
 - Register and log in.
